@@ -40,11 +40,11 @@ sarahscara1979 {
     padding: 0; 
     border: 0; 
     float: right; 
-    background: rgb(70, 130, 180);
-}
+    background: rgb(70, 130, 180, 0.6);
+} 
 
 ul {
-  list-style-image: url('https://i.ibb.co/hMrfxMz/Legendof-Zelda-Master-Key.png');
+    list-style-image: url('https://i.ibb.co/hMrfxMz/Legendof-Zelda-Master-Key.png');
 }
 
 #sidebar {
