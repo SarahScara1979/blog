@@ -40,12 +40,8 @@ sarahscara1979 {
     padding: 0; 
     border: 0; 
     float: right; 
-    background: rgb(70,130,180);
+    background: rgb(70, 130, 180);
     opacity: 0.5;
-}
-
-div.third {
-  background: rgb(70, 130, 180);
 }
 
 ul {
