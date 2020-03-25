@@ -47,37 +47,3 @@
 ul {
     list-style-image: url('https://i.ibb.co/hMrfxMz/Legendof-Zelda-Master-Key.png'); 
 }
-
-#sidebar {
-    width: 200px; 
-    height: 400px; 	
-    margin: 0; 
-    padding: 0; 
-    border: 0; 
-    float: left; 
-    background: #f0e811;
-}           
-
-#content {
-    width: 700px; 
-    height: 400px; 	
-    margin: 0; 
-    padding: 0; 
-    border: 0; 
-    float: left; 
-    background: #8be0ef;
-}           
-
-#footer {
-    width: 900px; 	
-    height: 70px; 	
-    margin: 0; 
-    padding: 0; 
-    border: 0;  
-    float: left; 
-    background: #000000;
-    color:#FFFFFF; 
-    clear:both;
-}                            
-
-
